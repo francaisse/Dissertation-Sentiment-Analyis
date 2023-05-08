@@ -1,2 +1,4 @@
 # Dissertation-Sentiment-Analyis
 Analysing the state of the UK Economy using Sentiment Analysis and Topic Modelling on Twitter. 
+
+The purpose of this project is to understand how UK residents feel about the high cost of living and rapid inflation in the country. This is important because the government needs to know how its citizens are reacting to the current economic situation, particularly during a time when the world is recovering from a financial downturn. To gather this information, the project aims to develop and use a sentiment analysis tool based on Twitter data (tweets). This tool will help to identify patterns and trends in public sentiment on these issues. By analysing this data, the government will be able to make more informed decisions about how to address the concerns of its citizens and improve the overall condition of the economy.
